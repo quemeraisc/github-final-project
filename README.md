@@ -1,4 +1,4 @@
-[![GitHub Issues]](https://github.com/quemeraisc/github-final-project/issues) [![Current Version]](https://github.com/quemeraisc/github-final-project)
+[GitHub Issues](https://github.com/quemeraisc/github-final-project/issues) [Current Version](https://github.com/quemeraisc/github-final-project)
 
 # This is the README.md file for the **github-final-project**
 
